@@ -4,6 +4,8 @@ const Product = require('../models/product')
 
 const productController = require('../controllers/productController')
 
+// 
+router.get('/', productController.products);
 // Create a new product
 router.post('/products/create', productController.create );
 

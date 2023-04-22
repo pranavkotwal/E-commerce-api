@@ -4,7 +4,8 @@
   "description": "product interntory API for an ecommerce platform admin to manage product inventory",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
   },
   "author": "Pranav kotwal",
   "license": "ISC",

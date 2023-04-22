@@ -10,7 +10,8 @@
 2. navigate to the project directory `cd E-commerce-api`
 3. install neccesary packages, modules `npm install`
 4. to run the project `npm start`
-5. using POSTMAN you can use this default url of `http://localhost:3000`
+5. using POSTMAN you can use this default url of `http://localhost:2000`
+6. using POSTMAN with http://ec2-44-204-84-188.compute-1.amazonaws.com/
 ```
 
 # Folder Structure 
